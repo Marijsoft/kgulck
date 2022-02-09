@@ -1,3 +1,4 @@
 # kgulck
-![Screenshot](https://github.com/Marijsoft/kgulck/blob/main/screen.png)
+
+![Screen](https://github.com/Marijsoft/kgulck/blob/main/screen.png)
 
