@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/05 03.00.00.000.840,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/05 03.00.00.000.071,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/07 07.00.00.000.856,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/08 05.00.00.000.092,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.163,C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\aloel\Desktop\kgwinedt\Unit1.pas</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.163,C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\aloel\Desktop\kgwinedt\Unit1.dfm</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.097,C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\aloel\Desktop\kgwinedt\keygenwinedt.dproj</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.847,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/09 03.00.00.000.375,C:\Users\aloel\Desktop\kgwinedt\usblock\Unit1.dfm=C:\Users\aloel\Desktop\kgwinedt\Unit1.dfm</Transaction>
+    <Transaction>2022/02/09 03.00.00.000.902,C:\Users\aloel\Desktop\kgwinedt\usblock\keygenusblock.dproj=C:\Users\aloel\Desktop\kgwinedt\keygenwinedt.dproj</Transaction>
+    <Transaction>2022/02/09 03.00.00.000.375,C:\Users\aloel\Desktop\kgwinedt\usblock\Unit1.pas=C:\Users\aloel\Desktop\kgwinedt\Unit1.pas</Transaction>
+    <Transaction>2022/02/09 05.38.39.637,=C:\Users\aloel\Desktop\kgwinedt\usblock\Unit2.pas</Transaction>
+    <Transaction>2022/02/09 05.38.51.741,=C:\Users\aloel\Desktop\kgwinedt\usblock\delphi_rounded_corners.pas</Transaction>
+  </Transactions>
+</BorlandProject>
