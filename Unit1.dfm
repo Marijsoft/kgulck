@@ -2,9 +2,9 @@ object Form1: TForm1
   Left = 0
   Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
-  Caption = 'Keygen per GilSoft USBLock 10.2.1'
-  ClientHeight = 272
-  ClientWidth = 559
+  Caption = 'Keygen per GilSoft USBLock 8.5.0'
+  ClientHeight = 268
+  ClientWidth = 555
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
